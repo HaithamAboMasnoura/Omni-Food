@@ -1199,7 +1199,7 @@
 }
 @media (max-width: 23.5em) {
   html {
-    font-size: 75%;
+    font-size: 70%;
   }
   .header {
     padding: 0 1rem;
@@ -1872,9 +1872,7 @@
   }
 }
 @media (max-width: 19.9em) {
-
   html {
-
     font-size: 50%;
-
   }
+}
