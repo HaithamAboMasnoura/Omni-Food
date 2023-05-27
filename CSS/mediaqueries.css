@@ -1871,10 +1871,10 @@
     gap: 1rem;
   }
 }
-@media (max-width: 19em) {
+@media (max-width: 19.9em) {
 
   html {
 
-    font-size: 60%;
+    font-size: 57.5%;
 
   }
