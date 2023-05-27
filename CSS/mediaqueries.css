@@ -1871,3 +1871,10 @@
     gap: 1rem;
   }
 }
+@media (max-width: 19em) {
+
+  html {
+
+    font-size: 60%;
+
+  }
